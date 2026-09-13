@@ -21,11 +21,11 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name — CS Engineer & Developer",
+  title: "Pablo Urbina — CS Engineer & Developer",
   description:
     "CS engineering student working on full-stack and cloud-integrated projects, learning Godot on the side.",
   openGraph: {
-    title: "Your Name — CS Engineer & Developer",
+    title: "Pablo Urbina — CS Engineer & Developer",
     description:
       "CS engineering student working on full-stack and cloud-integrated projects, learning Godot on the side.",
     images: ["/og-image.png"],
